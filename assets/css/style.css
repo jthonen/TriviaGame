@@ -1,0 +1,16 @@
+Body {
+    text-align: center;
+    background-image: url("https://e3.365dm.com/18/05/1096x616/skynews-world-map-map_4298829.jpg?bypass-service-worker&20180502134213");
+
+}
+.container {
+    text-align: center;
+    background-color: gray;
+}
+.start-button {
+    text-align: center;
+    
+}
+#qone-title, #qtwo-title, #qthree-title, #qfour-title, .form-check-input {
+    text-align: left;
+}
